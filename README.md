@@ -33,7 +33,7 @@
 	as smartphone, laptop, desktop, etc. connected to the same network as Raspberry Pi.
 
 	
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LIVE STREAMING USING RASPBERRY PI xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+// LIVE STREAMING USING RASPBERRY PI ////////////////////////////////////////////////////////////////////////////////////////////
 
 
 <STEP 1> INSTALL BUILD DEPENDENCIES 
