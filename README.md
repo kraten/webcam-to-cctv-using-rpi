@@ -111,7 +111,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LIVE STREAMING USING RASPBERRY PI xxxxxxxx
 	After everything is working fine, we can remove the source files:
 		$ cd ../../
 		$ rm -rf mjpg-streamer-182
+		
 
+< BONUS > SCRIPT TO AUTO LIVE STREAM AT STARTUP
+
+	Run the start_live_stream.sh script on the startup to live stream from your webcam. You can run this script by executing the 		following command on the terminal:
+	
+		$ ./start_live_stream.sh
+		
 
 < BONUS > STOP THE LIVE STREAM 
 	
