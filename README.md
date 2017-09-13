@@ -115,7 +115,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx LIVE STREAMING USING RASPBERRY PI xxxxxxxx
 
 < BONUS > SCRIPT TO AUTO LIVE STREAM AT STARTUP
 
-	Run the start_live_stream.sh script on the startup to live stream from your webcam. You can run this script by executing the 		following command on the terminal:
+	Run the start_live_stream.sh script on the startup to live stream from your webcam. You can run this script
+	by executing the following command on the terminal:
 	
 		$ ./start_live_stream.sh
 		
